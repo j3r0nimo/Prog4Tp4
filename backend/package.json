@@ -8,7 +8,11 @@
     "test": "jest --watchAll",
     "test:ci": "jest --ci",
     "test:coverage": "jest --coverage",
-    "test:security": "node test/run-security-tests.js"
+    "test:security": "node test/run-security-tests.js",
+    "test1": "npx jest test/security/01-brute-force.test.js",
+    "test2": "npx jest test/security/02-command-injection.test.js",
+    "test3": "npx jest test/security/03-csrf-protection.test.js",
+    "test7": "npx jest test/security/07-sql-injection.test.js"
   },
   "dependencies": {
     "express": "^4.18.2",
