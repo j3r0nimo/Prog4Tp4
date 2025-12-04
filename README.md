@@ -354,3 +354,13 @@ Este proyecto es con fines educativos. Si encuentras algún problema o tienes su
 ## ⚖️ Licencia
 
 Este proyecto es solo para fines educativos. No debe ser utilizado en entornos de producción.
+
+
+---
+
+## Integrantes Grupo 11
+
+- Jeronimo Baltian Ortiz
+- Marcos Diaz
+- Carlos Alberto Arce
+- Jimena Martinez Arana
